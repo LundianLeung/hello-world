@@ -1,4 +1,4 @@
 # hello-world
-#just one repositor
+# just one repositor
 #start github study tour
 #test pull request
