@@ -1,4 +1,2 @@
 # hello-world
-# just one repositor
-#start github study tour
-#test pull request
+此仓库只是作为一个练习，通常都是一些日常练习的内容。
